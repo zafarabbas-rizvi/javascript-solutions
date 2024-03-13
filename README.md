@@ -1,0 +1,2 @@
+# javascript-solutions
+Practice questions 
